@@ -49,6 +49,8 @@ Before running the simulation, make sure you have the following:
 ## Usage
 
 Upon running the program, you will be presented with a menu that allows you to interact with the elevator simulation. You can:
+![image](https://github.com/ScottyTeey/elevator-simulation/assets/47355833/51c07ef2-16d1-4b88-8bc7-a420997592a6)
+
 
 1. Call an elevator to a specific floor.
 2. Set the number of people waiting on a floor.
