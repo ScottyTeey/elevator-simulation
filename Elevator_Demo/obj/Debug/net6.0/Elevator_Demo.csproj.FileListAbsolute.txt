@@ -1,0 +1,15 @@
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.csproj.AssemblyReference.cache
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.AssemblyInfoInputs.cache
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.AssemblyInfo.cs
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.csproj.CoreCompileInputs.cache
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\bin\Debug\net6.0\Elevator_Demo.exe
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\bin\Debug\net6.0\Elevator_Demo.deps.json
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\bin\Debug\net6.0\Elevator_Demo.runtimeconfig.json
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\bin\Debug\net6.0\Elevator_Demo.dll
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\bin\Debug\net6.0\Elevator_Demo.pdb
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.dll
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\refint\Elevator_Demo.dll
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.pdb
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\Elevator_Demo.genruntimeconfig.cache
+C:\Users\lpapo\source\repos\Elevator_Demo\Elevator_Demo\obj\Debug\net6.0\ref\Elevator_Demo.dll
